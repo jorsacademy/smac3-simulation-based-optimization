@@ -11,6 +11,7 @@ requires-python = ">=3.10"
 dependencies = [
   "ConfigSpace>=1.2,<2",
   "numpy>=1.26,<3",
+  "scikit-learn>=1.6.1,<1.9",
   "smac==2.4.0",
 ]
 
